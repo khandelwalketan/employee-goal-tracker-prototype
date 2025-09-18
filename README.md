@@ -6,15 +6,15 @@ Employees can sign up and sign in to access a personal dashboard, select a year 
 
 🔥 Features
 
-User Authentication: Secure sign-up and sign-in system.
+- User Authentication: Secure sign-up and sign-in system.
 
-Goal Management: Create, read, update, and delete goals.
+- Goal Management: Create, read, update, and delete goals.
 
-Time-Based Organization: View goals by year and quarter.
+- Time-Based Organization: View goals by year and quarter.
 
-Interactive UI: Goals displayed in cards for easy access.
+- Interactive UI: Goals displayed in cards for easy access.
 
-Secure Backend: Data stored in MongoDB, accessible only to signed-in users.
+- Secure Backend: Data stored in MongoDB, accessible only to signed-in users.
 
 🛠️ Tech Stack
 
