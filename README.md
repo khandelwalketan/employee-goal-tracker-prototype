@@ -71,6 +71,28 @@ npm start
 cd ../frontend
 npm start
 ```
+📸 Demo Screenshots
 
+### Dashboard
 
+![Dashboard](screenshots/Dashboard.png)
 
+### Select Year
+
+![Year](screenshots/select_year.png)
+
+### Select Quarter
+
+![Year](screenshots/select_quarter.png)
+
+### Goals View
+![Goals View](screenshots/gs_dashboard.png)
+
+### Add / Edit / Delete Goal
+![Add Goal](screenshots/goal_save.png)
+![Edit Goal](screenshots/task_update.png)
+![Delete Goal](screenshots/task_delete.png)
+
+⚖️ License
+
+This project is open-source and free to use.
